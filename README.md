@@ -1,6 +1,6 @@
 โหลดไปลองงศึกษากันได้นะครับ 
 ขั้นการดาวโหลด หรือ โคลนโปรเจ็คไปแล้ว
-Run : git clone <my-cool-project>
+Run : git clone https://github.com/Weeraphong-Surapo/vuejs_laravel_api.git
 หรือกดาวโหลด
 Laravel มีขั้นตอนดังนี้
 เข้า terminal ของโปรเจ็ค laravel แล้ว
