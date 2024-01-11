@@ -16,3 +16,6 @@
 <p>1.Run : npm install</p>
 <p>2.Run : npm run dev</p>
 <p>3.Go to link localhost:5173 หรือ ตามที่ terminal แจ้ง</p>
+
+<p>ดูโปรเจ็คอื่นๆ</p>
+<a href="https://innovation-develop.com">คลิกที่นี่</a>
